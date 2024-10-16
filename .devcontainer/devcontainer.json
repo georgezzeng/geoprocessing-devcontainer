@@ -13,7 +13,7 @@
 				"seasketch/geoprocessing": {
 					"permissions": "write-all"
 				},
-				"georgezzeng/green-stormwater-infrastructure": {
+				"georgezzeng/green-stormwater-infra": {
 					"permissions": "write-all"
 				},
 				"seasketch/azores-nearshore-reports": {
